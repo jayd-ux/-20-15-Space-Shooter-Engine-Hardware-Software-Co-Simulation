@@ -1,4 +1,11 @@
+## 👥 Collaborative Project
 
+This project was developed collaboratively with @Het1236.
+
+My contributions include:
+- Hardware–software co-simulation design
+- Verification using HDL testbenches
+- Documentation and system-level explanation
 # 🕹️ **20×15 Space Shooter Engine — Hardware + Software Co-Simulation**
 
 ### **Verilog Game Engine + Automated HDL Testbenches + Python Real-Time Frontend + Snapshot-Based Verification**
